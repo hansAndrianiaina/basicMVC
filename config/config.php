@@ -1,16 +1,16 @@
 <?php
 
 // the name of the application
-define("APP_NAME", "Coffee.Inc");
+define("APP_NAME", "Basic MVC template");
 
 // database name
-define("DB_NAME", "CoffeeInc");
+define("DB_NAME", "Your database name");
 
 // database user
-define("DB_USER", "hans");
+define("DB_USER", "Your database username");
 
 // database password
-define("DB_PASSWD", "veldoratempest");
+define("DB_PASSWD", "your user password");
 
 // database host
 define("DB_HOST", "localhost");
